@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+:root {
+  --fgColor-accent: #0aa0c2;
+  --fgColor-danger: #d1242f;
+  --fgColor-black: #1f2328;
+  --fgColor-default: #1f2328;
+  --fgColor-disabled: #818b98;
+  --fgColor-done: #8250df;
+  --fgColor-link: #0969da;
+  --fgColor-success: #1a7f37;
+  --fgColor-white: #ffffff;
+
+  --bgColor: #fff;
+  --bgColor-header: #f8f9fa;
+
+  --textColor: #000;
+}

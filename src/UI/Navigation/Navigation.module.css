@@ -1,0 +1,8 @@
+.nav {
+  width: 250px;
+  box-shadow: 7px 0 5px -2px #888;
+  padding: 20px 10px;
+}
+.ul {
+  list-style: none;
+}
