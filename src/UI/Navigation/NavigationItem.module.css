@@ -1,0 +1,13 @@
+.li {
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.li:hover {
+  background: #ddd;
+  border-radius: 4px;
+}
+.li:active {
+  background: var(--fgColor-success);
+}
